@@ -31,7 +31,7 @@ mysqlclient==1.4.6
 numpy==1.22.0
 openpyxl==3.0.3
 pandas==1.0.5
-passlib==1.7.2
+passlib==1.7.4
 pbr==5.4.5
 pdfminer.six==20200517
 protobuf==5.29.6
